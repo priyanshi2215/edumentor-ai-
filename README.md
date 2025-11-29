@@ -200,17 +200,6 @@ Students receive:
 
 ---
 
-## 🚀 If There Was More Time…
-
-- Full progress dashboard  
-- Smarter difficulty prediction  
-- Image understanding  
-- Multi-day study plans  
-- Voice interaction  
-- Accessibility features  
-
----
-
 ## 🌍 Impact
 
 What makes EduMentor AI unique:
