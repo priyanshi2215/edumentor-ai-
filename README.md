@@ -193,10 +193,11 @@ Students receive:
 
 - Multi-agent architecture  
 - Python  
-- OpenAI API  
-- Structured memory system  
-- Rule-based intent router  
-- Modular, scalable design  
+- Google Gemini API  
+- Memory-augmented reasoning  
+- Intent-based routing  
+- Modular, scalable structure  
+
 
 ---
 
