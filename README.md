@@ -226,7 +226,7 @@ EduMentor AI behaves like a mentor who remembers you.
 ---
 
 ## 👩‍💻 Author
-Priyanshi Jadhav
+Priyanshi
 
 
 
